@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Read More Button</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f4f4f9;
+    }
+    .button-container {
+      text-align: center;
+    }
+    .read-more-btn {
+      padding: 10px 20px;
+      font-size: 16px;
+      color: white;
+      background-color: #007BFF;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    .read-more-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="button-container">
+    <a href="https://urgentlyrightypast.com/zzyqigmnc?key=e7e605a2023a3b6334f2752ca3a4c66c" class="read-more-btn" target="_blank">Read More</a>
+  </div>
+
+</body>
+</html>
