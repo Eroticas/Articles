@@ -1,42 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Read More Button</title>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
   <style>
+    /* Global Styles */
     body {
-      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      margin: 0;
-      background-color: #f4f4f9;
+      background-color: #f0f4f8;
+      font-family: 'Poppins', sans-serif;
     }
-    .button-container {
-      text-align: center;
-    }
+
     .read-more-btn {
-      padding: 10px 20px;
-      font-size: 16px;
+      padding: 15px 30px;
+      font-size: 18px;
       color: white;
-      background-color: #007BFF;
+      background-color: #ff6a00;
       border: none;
-      border-radius: 5px;
-      cursor: pointer;
+      border-radius: 50px;
       text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease, transform 0.3s ease;
     }
+
     .read-more-btn:hover {
-      background-color: #0056b3;
+      background-color: #e55a00;
+      transform: scale(1.1);
     }
+
+    .read-more-btn:focus {
+      outline: none;
+    }
+
   </style>
 </head>
+
 <body>
 
-  <div class="button-container">
-    <a href="https://urgentlyrightypast.com/zzyqigmnc?key=e7e605a2023a3b6334f2752ca3a4c66c" class="read-more-btn" target="_blank">Read More</a>
-  </div>
+  <a href="https://urgentlyrightypast.com/zzyqigmnc?key=e7e605a2023a3b6334f2752ca3a4c66c" class="read-more-btn" target="_blank">Read More</a>
 
 </body>
+
 </html>
